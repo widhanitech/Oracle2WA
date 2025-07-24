@@ -49,16 +49,6 @@ A lightweight Node.js utility that enables seamless **PDF dispatch (invoice or c
 
 ---
 
-## 📃 License
-
-- This software is **proprietary** and **not open source**.
-- All rights are reserved by [**Widhani Tech**](https://widhanitech.com).
-- You may **not** copy, distribute, modify, reuse, or resell any part of this software or its related assets without **explicit written permission**.
-- Unauthorized use is strictly prohibited and may result in legal action.
-© 2025 [**Widhani Tech**](https://widhanitech.com). All rights reserved.
-
----
-
 ## 💼 Licensing & Purchase
 
 - This utility is a **proprietary commercial product** developed by [**Widhani Tech**](https://widhanitech.com).  
